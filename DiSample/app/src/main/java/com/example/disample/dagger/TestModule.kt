@@ -6,6 +6,7 @@ import com.example.disample.sub.Tool
 import dagger.Module
 import dagger.Provides
 
+/*
 @Module
 class TestModule {
 
@@ -23,4 +24,4 @@ class TestModule {
     fun provideTool(): Tool {
         return Tool()
     }
-}
+}*/

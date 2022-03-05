@@ -5,6 +5,7 @@ import dagger.Module
 import dagger.Provides
 import javax.inject.Named
 
+/*
 @Module(includes = [BluePrintModule::class])
 class ViewModelModule {
 
@@ -18,4 +19,4 @@ class ViewModelModule {
 
         return MainViewModel(material, tool, bluePrint)
     }
-}
+}*/

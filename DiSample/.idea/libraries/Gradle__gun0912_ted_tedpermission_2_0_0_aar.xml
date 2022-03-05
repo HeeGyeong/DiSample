@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: gun0912.ted:tedpermission:2.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cdb7fa5da555979039bee930d6e3eb2e/jetified-tedpermission-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cdb7fa5da555979039bee930d6e3eb2e/jetified-tedpermission-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cdb7fa5da555979039bee930d6e3eb2e/jetified-tedpermission-2.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-2/files-2.1/68484b0a8b7d84339d0a9c11a6db622b/jetified-tedpermission-2.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-2/files-2.1/68484b0a8b7d84339d0a9c11a6db622b/jetified-tedpermission-2.0.0/res" />
+      <root url="jar://$USER_HOME$/AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-2/files-2.1/68484b0a8b7d84339d0a9c11a6db622b/jetified-tedpermission-2.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/gun0912.ted/tedpermission/2.0.0/adbd06b6cfc6231e2cc838a868ca4e93f8e510bf/tedpermission-2.0.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/modules-2/files-2.1/gun0912.ted/tedpermission/2.0.0/adbd06b6cfc6231e2cc838a868ca4e93f8e510bf/tedpermission-2.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/gun0912.ted/tedpermission/2.0.0/82bcc7c1417528cab51836a76d9e989a284cc2d9/tedpermission-2.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/modules-2/files-2.1/gun0912.ted/tedpermission/2.0.0/82bcc7c1417528cab51836a76d9e989a284cc2d9/tedpermission-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

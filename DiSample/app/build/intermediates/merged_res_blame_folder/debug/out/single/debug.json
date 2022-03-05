@@ -28,6 +28,10 @@
         "source": "/Users/youheegyeong/DiSample/DiSample/app/src/main/res/layout/activity_main.xml"
     },
     {
+        "merged": "/Users/youheegyeong/DiSample/DiSample/app/build/intermediates/res/merged/debug/layout_activity_hilt.xml.flat",
+        "source": "/Users/youheegyeong/DiSample/DiSample/app/src/main/res/layout/activity_hilt.xml"
+    },
+    {
         "merged": "/Users/youheegyeong/DiSample/DiSample/app/build/intermediates/res/merged/debug/layout_activity_sub.xml.flat",
         "source": "/Users/youheegyeong/DiSample/DiSample/app/src/main/res/layout/activity_sub.xml"
     },

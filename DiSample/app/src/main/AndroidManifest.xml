@@ -2,6 +2,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.disample">
 
+    <!-- Permission Library Check를 위하여 추가 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
     <application
         android:name=".koin.KoinApplication"
         android:allowBackup="true"
@@ -19,7 +25,8 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".view.SubActivity"/>
+        <activity android:name=".view.KoinActivity"/>
+        <activity android:name=".view.HiltActivity"/>
     </application>
 
 </manifest>

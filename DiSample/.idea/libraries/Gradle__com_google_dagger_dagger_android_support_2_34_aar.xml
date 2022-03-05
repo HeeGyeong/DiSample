@@ -3,8 +3,13 @@
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8e194a8af920a34a24ba8f754e75f4bd/dagger-android-support-2.34/res" />
       <root url="file://$USER_HOME$/AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-2/files-2.1/8e194a8af920a34a24ba8f754e75f4bd/dagger-android-support-2.34/res" />
-      <root url="file://$USER_HOME$/AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-2/files-2.1/8e194a8af920a34a24ba8f754e75f4bd/dagger-android-support-2.34/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-2/files-2.1/8e194a8af920a34a24ba8f754e75f4bd/dagger-android-support-2.34/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/32c327d741f47177a842e4f9d6fcb090/jetified-dagger-android-support-2.34/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dfb6d7255afd8342072d33a2aac61f65/jetified-dagger-android-support-2.34/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dfb6d7255afd8342072d33a2aac61f65/jetified-dagger-android-support-2.34/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dfb6d7255afd8342072d33a2aac61f65/jetified-dagger-android-support-2.34/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-2/files-2.1/dfb6d7255afd8342072d33a2aac61f65/jetified-dagger-android-support-2.34/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-2/files-2.1/dfb6d7255afd8342072d33a2aac61f65/jetified-dagger-android-support-2.34/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/transforms-2/files-2.1/dfb6d7255afd8342072d33a2aac61f65/jetified-dagger-android-support-2.34/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/AppUnifyKotlin_Android/AppUnifyKotlin/gradle/caches/modules-2/files-2.1/com.google.dagger/dagger-android-support/2.34/7bfafce728be3a11d668e29b5b68adba17e025bc/dagger-android-support-2.34-javadoc.jar!/" />

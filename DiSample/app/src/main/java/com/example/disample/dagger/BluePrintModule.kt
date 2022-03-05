@@ -7,6 +7,7 @@ import dagger.Module
 import dagger.Provides
 import javax.inject.Inject
 
+/*
 @Module
 class BluePrintModule @Inject constructor() {
 
@@ -24,4 +25,4 @@ class BluePrintModule @Inject constructor() {
     fun provideTool(): Tool {
         return Tool()
     }
-}
+}*/
