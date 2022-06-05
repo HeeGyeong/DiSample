@@ -8,4 +8,4 @@ Dagger2, Koin, Hilt를 적용해 본 Project입니다.
 Main Branch는 Dagger2와 Koin이, Hilt Branch에는 Hilt가 적용되어 있습니다.
 
 
-[Tistory Blog - DI](https://heegs.tistory.com/category/Android/DI, "DI example")
+[Tistory Blog - DI](https://heegs.tistory.com/category/Android/DI "DI example")
